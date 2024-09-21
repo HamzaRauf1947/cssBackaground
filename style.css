@@ -1,0 +1,31 @@
+img {
+    height: 300px;
+    width: 300px;
+}
+
+/* img.align-left {
+    float: right;
+    margin-right: 10px;
+} */
+/* body{
+    background-image: url("./free-nature-images.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+img.align-center {
+    display: block;
+    margin: 0px auto;
+}
+
+
+img.medium {
+    width: 250px;
+    height: 250px;
+} */
+
+
+body{
+    /* background-image: url(./Perspective-Button-Stop-icon.png); */
+}
